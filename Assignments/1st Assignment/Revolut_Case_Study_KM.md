@@ -9,7 +9,7 @@
 <!--* Who are the founders of the company?-->
 * Founders: Nikolay Storonsky & Vlad Yatsenko
 <!--* How did the idea for the company (or project) come about?-->
-*   While traveling to different countries the founders of Revolut came to the realization that traditional banking institutions were charging excessive foreign transaction fees for having access to your own money. This realization is what helped drive the idea to come up with a cost efficient and fast method of accessing your money anywhere in the world.
+*   While traveling to different countries the founders of Revolut came to the realization that traditional banking institutions were charging excessive foreign transaction fees for having access to their own money. This realization is what helped drive the idea to come up with a cost efficient and fast method of accessing your money anywhere in the world.
 <!--* How is the company funded? How much funding have they received?-->
 * From 2016 to 2050 Revolut has raised $837 million in venture capital funding, with the last valuation at $5.5 billion.
 
