@@ -58,18 +58,18 @@ Revolut, through providers like Gatsby, uses React JavaScript library and GraphQ
 	* Funding Ranking
     * Revenue vs Profit<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Capital_vs_Valuation.png" width="300" height="192"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Capital_vs_Valuation.png" width="300" height="192"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Customer%20Growth.JPG" width="300" height="192"><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Funding.JPG" width="300" height="162"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Funding.JPG" width="300" height="162"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Revolut_Revenue_Losses.jpg" width="300" height="162"><br/>
 <!--* How is your company performing relative to competitors in the same domain?-->
 
 * Performance vs Competitors:<br/>
 
-<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Competitors_by_number_accounts.png" width="300" height="220">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Competitors_by_number_accounts.png" width="300" height="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Funding_Competitors.JPG" width="300" height="220">><br/>
 
-<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Global%20Downloads.png" width="300" height="220"><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Global%20Downloads.png" width="300" height="220"><br/>
 
 ## Recommendations
 
