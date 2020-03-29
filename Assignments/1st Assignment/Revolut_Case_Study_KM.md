@@ -9,14 +9,14 @@
 <!--* Who are the founders of the company?-->
 * Founders: Nikolay Storonsky & Vlad Yatsenko
 <!--* How did the idea for the company (or project) come about?-->
-*   While traveling to multiple countries the founders of Revolut came to the realization that traditional banking institutions were charging excessive foreign transaction fees and exchange rate commissions. The founders of Revolut aimed to provide a low cost and quick method of accessing your money anywhere in the world.
+*   While traveling to different countries the founders of Revolut came to the realization that traditional banking institutions were charging excessive foreign transaction fees for having access to your own money. This realization is what helped drive the idea to come up with a cost efficient and fast method of accessing your money anywhere in the world.
 <!--* How is the company funded? How much funding have they received?-->
 * From 2016 to 2050 Revolut has raised $837 million in venture capital funding, with the last valuation at $5.5 billion.
 
 ## Business Activities:
 
 <!--What specific financial problem is the company or project trying to solve?-->
-* Revolut aims to provide its users efficient access to money across the world. It provides an alternative to traditional banking provider, offering low cost banking services with focus on fee free foreign currency exchange.
+* Revolut aims to provide fast and efficient access to money across the world. It provides its users an alternative to traditional banking institutions, offering low cost banking services with focus on fee free foreign currency exchange.
 <!--* Who is the company's intended customer?  Is there any information about the market size of this set of customers?-->
 * Revolut’s focus was to serve demographics that have been underserved by larger banking institutions, such as low-income clients and frequent travelers. Currently some of main target groups that Revolut seeks to attract are young millennials and Gen Xers who value simplicity and digital self-service. According to Finnovate Research the average Revolut’s user performs transactions worth about $1,000 per month. As of February 2020, Revolut held a user base of over 10 million.
 <!--* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)-->
@@ -30,7 +30,7 @@ Revolut, through providers like Gatsby, uses React JavaScript library and GraphQ
 ## Landscape:
 
 <!--* What domain of the financial industry is the company in?-->
-* Revolut is a fintech company in the Banking Industry
+* Revolut is a fintech company in the banking industry
 <!--* What have been the major trends and innovations of this domain over the last 5-10 years?-->
 * Some of the major trends and innovations of this domain over the last 5-10 years have been:
     * Cryptocurrency Exchange 
