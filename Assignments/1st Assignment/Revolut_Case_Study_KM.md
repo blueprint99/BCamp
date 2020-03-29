@@ -67,7 +67,7 @@ Revolut, through providers like Gatsby, uses React JavaScript library and GraphQ
 * Performance vs Competitors:<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Competitors_by_number_accounts.png" width="300" height="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Funding_Competitors.JPG" width="300" height="220">><br/>
+<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Funding_Competitors.JPG" width="300" height="220"><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/blueprint99/BCamp/master/Assignments/1st%20Assignment/Global%20Downloads.png" width="300" height="220"><br/>
 
